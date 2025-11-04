@@ -33,7 +33,6 @@ build/
 .vscode/
 
 ### Others ###
-.mvn
-.idea
-target
-src/test
+/.mvn/
+/.idea/
+/test/
