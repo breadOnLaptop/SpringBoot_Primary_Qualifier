@@ -1,7 +1,6 @@
-package com.atuluttam.springBoot1;
+package com.practice.springBoot;
 
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
