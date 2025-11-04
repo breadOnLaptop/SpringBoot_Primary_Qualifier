@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Others ###
+.mvn
+.idea
+target
+src/test
